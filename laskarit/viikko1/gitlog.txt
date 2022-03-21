@@ -2,7 +2,7 @@ commit df7b0e2f934c35f95e4a78cf5a1abf0650671044
 Author: Otso Westerlund <otsowesterlund@gmail.com>
 Date:   Tue Mar 22 00:43:01 2022 +0200
 
-    lahti.
+    lahti. ( hieman muutettuna )
 
  tiedostoja/file2.txt                 | 0
  tiedostoja/{file1.txt => file22.txt} | 0
